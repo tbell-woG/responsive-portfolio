@@ -1,20 +1,8 @@
-# responsive-portfolio
-This is a website about me featuring my biography and portfolio
-The focus of this project was to create a web application featuring my portfolio. This responsive web application has to be able to render on multiple types of screen sizes for different devices. The link to the deployed application is: https://github.com/tbell-woG/responsive-portfolio.git The link to the screenshots are:
-<img src="https://i.ibb.co/VTTSKf4/mobile-contact.png" alt="mobile-contact" border="0">
-<img src="https://i.ibb.co/vqdvStC/mobile-index.png" alt="mobile-index" border="0">
-<img src="https://i.ibb.co/g9cKHwW/mobile-portfolio.png" alt="mobile-portfolio" border="0">
-<img src="https://i.ibb.co/4FpY12W/web-contact.png" alt="web-contact" border="0">
-<img src="https://i.ibb.co/BzXPTtf/web-index.png" alt="web-index" border="0">
-<img src="https://i.ibb.co/9ZnWjFy/web-portfolio.png" alt="web-portfolio" border="0">
-# Project One - Plant Scout
+# Responsive Portfolio
+Create a web application that featuring my biography and portfolio of complete class assignments.
 
-Create a web application that will retrieve, display, and save weather data for cities and plant data using HTML, CSS, Javascript, and jQuery.
 
-Deployment Link: https://tbell-wog.github.io/plant-scout/
-
-Presentation Link: https://docs.google.com/presentation/d/1tnaGl0qNMopLVVeow6DjOGfsMx9vjwfVBM3WAzKWcNg/edit?usp=sharing
-
+Deployment Link: https://tbell-wog.github.io/responsive-portfolio/
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -32,18 +20,18 @@ Presentation Link: https://docs.google.com/presentation/d/1tnaGl0qNMopLVVeow6DjO
     <li><a href="contact">Contact</a></li>
   </ol>
 
-# About The Project
-The name of our app is called Plant Scout. The purpose of this project was to create an application within the web browser that would retrieve, display, and save weather data for cities. It also retrieves, displays, and saves data of all types of plants. Plant Scout is ideal for anyone who wants to know their local weather conditions and information about plants. We used two Application Programming Interfaces (API's) in this project. The first was Open Weather Map, which is a weather API that contains data of weather conditions in over 200,000 cities. And the second was Trefle, which is a botanical API and database that contains information about plants all over the world. When the user enters in their city, Plant Scout displays the current forecast for the day, which includes the temperature, humidity, UV index, visibility, sunrise, and sunset. When the user enters in the type of plant they are interested in, Plant Scout displays a list of various plants within their search category. It displays the plant's common, scientific, and family name as well as a picture of the plant. 
 
-<img src="https://i.ibb.co/LxTX0yJ/Screen-Shot-2020-12-15-at-12-16-12-PM.png" alt="Screen-Shot-2020-12-15-at-12-16-12-PM" border="0">
-<img src="https://i.ibb.co/vqZjkpS/Screen-Shot-2020-12-15-at-12-16-42-PM.png" alt="Screen-Shot-2020-12-15-at-12-16-42-PM" border="0">
+# About The Project
+The focus of this project was to create a web application featuring my biography and portfolio of completed assignments and projects. This responsive web application is able to render on multiple types of screen sizes for different devices. On the "About" page of my responisve portfolio, my biography, picture, and a link to my resume are displayed. On the "Portfolio" page, images of my top four assigmnets are display. The viewer simply clicks on the image, and it will lead them to the deployed like of the assignment's website. On the "Contact" page, 4 buttons are display to access my LinkedIn profile, Github profile, email, and phone number. It also has a contact form, so that users can fill it out and the form request will be sent directly to me.
+
+<img src="https://i.ibb.co/vZ14Gmx/Screen-Shot-2020-12-16-at-3-58-01-AM.png" alt="Screen-Shot-2020-12-16-at-3-58-01-AM" border="0">
+<img src="https://i.ibb.co/VVj8LLV/Screen-Shot-2020-12-16-at-3-58-29-AM.png" alt="Screen-Shot-2020-12-16-at-3-58-29-AM" border="0">
+<img src="https://i.ibb.co/YhcgQbK/Screen-Shot-2020-12-16-at-3-59-08-AM.png" alt="Screen-Shot-2020-12-16-at-3-59-08-AM" border="0">
 
 ### Built With
-The code quiz web application was created with these coding languages:
+The responsive portfolio web application was created with these coding languages:
 * HMTL
 * CSS
-
-It was also built with the Open Weather Map API
 
 # Contributing
 1. Fork it!
@@ -60,6 +48,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Contact
-Github Link: https://github.com/tbell-woG/plant-scout
+Responsive Portfolio Github Repository Link: https://github.com/tbell-woG/responsive-portfolio.git
 
 Tamira Bell - https://github.com/tbell-woG
